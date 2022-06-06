@@ -6,4 +6,5 @@
   - 🥾 I'm a **travel enthusiast**
   - 🎖 Served 8 years in the **United States Navy** and currently **still serving** in the **Reserves**.
   - 📫 You can reach me on **LinkedIn**: https://www.linkedin.com/in/demuthsa/
+  - 💻 Check out my **Portfolio**: https://www.samdemuth.dev
 
