@@ -1,9 +1,9 @@
 ### **Hi there**👋<br>
-  - 📖 Currently working on my **Bachelor's degree in Computer Science** at Oregon State University.
-  - 👨‍💼 Looking for **New Grad** opportunity for the **Summer of 2024**.
-  - 🎓 I'm **graduating** in **June of 2024**.
-  - 🥾 I'm a **travel enthusiast**
-  - 🎖 Served 8 years in the **United States Navy** and currently **still serving** in the **Reserves**.
+  - 🎓 Graduated with a **B.S. in Computer Science** from Oregon State University in **June 2024**
+  - 👨‍💼 Looking for a **Full Time Role** as a **New Grad**
+  - 💼 Completed **Two Internships** during my studies, gaining valuable industry experience
+  - 🎖 Served **9 years** in the **United States Navy** and hold a **Secret Clearance**
+  - 🏓 Active **Pickleball** player and enthusiast
   - 📫 You can reach me on **LinkedIn**: https://www.linkedin.com/in/demuthsa/
   - 💻 Check out my **Portfolio**: https://www.samdemuth.dev
 
